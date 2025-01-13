@@ -1,2 +1,2 @@
 # database-designs
-Database designs (including graphs ) for various situations
+Database designs (including graphs) for various situations
